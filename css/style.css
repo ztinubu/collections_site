@@ -1,0 +1,150 @@
+html {
+	font-family: 'M PLUS 1p', sans-serif;
+	font-weight : 100;
+}
+a {
+	text-decoration: none;
+	
+}
+.back_button a {
+	text-decoration: none;
+	color: black;
+	position: fixed;
+}
+.back_button a:hover {
+	opacity: 0.25;
+}
+.item_page img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 100px;
+  width: 50%;
+  transform: rotate(90deg);
+	
+	
+}
+img {
+	width: 80%;
+	height: 80%;
+
+}
+.back_button {
+	text-decoration: none;
+	color: black;
+}
+
+.link_grid {
+display: grid;
+grid-template-columns: auto auto;
+grid-gap: 10px;
+padding: 300px;
+width: 100%;
+margin-right: auto;
+margin-left: auto;
+font-size: 100px;
+
+}
+.link_grid a { 
+text-decoration: none;
+color: black;
+transition: transform 1s;
+}
+.link_grid div a:hover {
+	opacity: 0.25;
+	transform: rotate(1080deg);
+	transition: transform 1s;
+	transition-property: transform;
+	transition-timing-function: ease-in;
+}
+.link_grid_2_page{
+display: grid;
+grid-template-columns: auto auto;
+grid-gap: 10px;
+padding: 300px;
+width: 100%;
+margin-right: auto;
+margin-left: auto;
+font-size: 10px;
+
+}
+.link_grid_2_page {
+text-decoration: none;
+color: black;
+transition: transform 1s;
+}
+.link_grid_2_page a:hover {
+	opacity: 0.25;
+	transform: rotate(1080deg);
+	transition: transform 1s;
+	transition-property: transform;
+	transition-timing-function: ease-in;
+}
+
+.link_grid_3_page{
+display: grid;
+grid-template-columns: auto auto;
+grid-gap: 10px;
+padding: 300px;
+width: 100%;
+margin-right: auto;
+margin-left: auto;
+font-size: 10px;
+
+}
+.link_grid_3_page {
+text-decoration: none;
+color: black;
+transition: transform 1s;
+}
+.link_grid_3_page a:hover {
+	opacity: 0.25;
+	transform: rotate(1080deg);
+	transition: transform 1s;
+	transition-property: transform;
+}
+.link_grid_4_page{
+display: grid;
+grid-template-columns: auto auto;
+grid-gap: 10px;
+padding: 300px;
+width: 100%;
+margin-right: auto;
+margin-left: auto;
+font-size: 10px;
+
+}
+.link_grid_4_page {
+text-decoration: none;
+color: black;
+transition: transform 1s;
+}
+.link_grid_4_page a:hover {
+	opacity: 0.25;
+	transform: rotate(1080deg);
+	transition: transform 1s;
+	transition-property: transform;
+}
+.link_grid_5_page{
+display: grid;
+grid-template-columns: auto auto;
+grid-gap: 10px;
+padding: 300px;
+width: 100%;
+margin-right: auto;
+margin-left: auto;
+font-size: 10px;
+
+}
+.link_grid_5_page {
+text-decoration: none;
+color: black;
+transition: transform 1s;
+}
+.link_grid_5_page a:hover {
+	opacity: 0.25;
+	transform: rotate(1080deg);
+	transition: transform 1s;
+	transition-property: transform;
+}	
+
